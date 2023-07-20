@@ -36,6 +36,3 @@ build/
 .mvn/
 mvnw
 mvnw.cmd
-
-### Ignore properties files
-*.properties
